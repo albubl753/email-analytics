@@ -15,8 +15,7 @@ The objective of this project is to analyze user account creation dynamics and e
 
 ## Visualizations
 
-![Looker Studio Dashboard](<img width="1276" height="407" alt="image" src="https://github.com/user-attachments/assets/c873c7e4-712b-45d0-9516-0cfc25dcc12e" />
-)
+![Looker Studio Dashboard](https://drive.google.com/file/d/1sle6NpEcAevnJ2Llxj1zNnz5F_vxcuWx/view?usp=sharing)
 
 [Insert_Your_Looker_Studio_Link_Here](https://lookerstudio.google.com/reporting/fc3e8bd2-7b6b-42d2-8028-0e26a41b0e0b)
 
