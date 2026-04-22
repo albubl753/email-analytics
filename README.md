@@ -15,9 +15,10 @@ The objective of this project is to analyze user account creation dynamics and e
 
 ## Visualizations
 
-![Looker Studio Dashboard](Insert_link_to_your_screenshot_image_here.png)
+![Looker Studio Dashboard](<img width="1276" height="407" alt="image" src="https://github.com/user-attachments/assets/c873c7e4-712b-45d0-9516-0cfc25dcc12e" />
+)
 
-[View Interactive Dashboard in Looker Studio](Insert_Your_Looker_Studio_Link_Here)
+[View Interactive Dashboard in Looker Studio]([Insert_Your_Looker_Studio_Link_Here](https://lookerstudio.google.com/reporting/fc3e8bd2-7b6b-42d2-8028-0e26a41b0e0b)
 
 ## Key Findings
 1. **Account Growth:** [Insert Country Name] leads in new account creation, contributing [Insert Number or %] to the overall user base.
