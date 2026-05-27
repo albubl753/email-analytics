@@ -13,13 +13,14 @@ The objective of this project is to analyze user account creation dynamics and e
 * **Data Combinations:** `UNION ALL` to merge distinct datasets (account metrics and email metrics) while preserving dimension granularity (date, country, etc.).
 * **Safe Calculations:** `SAFE_DIVIDE` integration to prevent zero-division errors during relative metric calculations.
 
-## Visualizations
-
-![Looker Studio Dashboard](https://drive.google.com/file/d/1sle6NpEcAevnJ2Llxj1zNnz5F_vxcuWx/view?usp=sharing)
-
-[Insert_Your_Looker_Studio_Link_Here](https://lookerstudio.google.com/reporting/fc3e8bd2-7b6b-42d2-8028-0e26a41b0e0b)
+## Visualization
+*[Link to interactive dashboard in Looker Studio](https://lookerstudio.google.com/reporting/fc3e8bd2-7b6b-42d2-8028-0e26a41b0e0b)*
 
 ## Key Findings
-1. **Account Growth:** [Insert Country Name] leads in new account creation, contributing [Insert Number or %] to the overall user base.
-2. **Email Engagement:** While [Country A] has the highest volume of sent emails, [Country B] demonstrates the most efficient engagement with a Click-to-Open Rate (CTOR) of [Insert %].
-3. **Verification Status:** [Insert a brief analytical fact, e.g., Verified accounts demonstrate a consistently higher open rate compared to unverified accounts].
+* **Account Growth:** **United States** leads in new account creation, contributing **12,384 accounts**, significantly outpacing the next largest markets (India with 2,687 and Canada with 2,067).
+* **Email Engagement:** While the **United States** has the highest overall volume of sent emails (233,503 messages), the **United Kingdom** demonstrates the most efficient engagement with the highest Click-to-Open Rate (CTOR) at **13.83%**.
+* **Verification Status:** User verification directly impacts campaign performance. **Verified accounts** demonstrate a significantly higher engagement, with an average Open Rate of **35.6%**, compared to just 29.5% for unverified users.
+
+
+
+
